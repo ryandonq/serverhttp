@@ -1,4 +1,3 @@
-
 local http = game:GetService("HttpService")
 local remoteFunction = Instance.new("RemoteFunction")
 remoteFunction.Name = "HTTPServer
