@@ -1,7 +1,6 @@
 local http = game:GetService("HttpService")
 local remoteFunction = Instance.new("RemoteFunction")
-remoteFunction.Name = "HTTPServer
-"
+remoteFunction.Name = "HTTPServer"
 remoteFunction.Parent = game.ReplicatedStorage
 
 remoteFunction.OnServerInvoke = function(player, request)
