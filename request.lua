@@ -43,3 +43,4 @@ local headers = {["Content-Type"] = "application/json"}
 
 local response = makeRequest(url, method, data, headers)
 handleResponse(response)
+
