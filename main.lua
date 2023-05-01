@@ -1,4 +1,3 @@
--- Import the necessary libraries
 local HttpService = game:GetService("HttpService")
 local ServerStorage = game:GetService("ServerStorage")
 
